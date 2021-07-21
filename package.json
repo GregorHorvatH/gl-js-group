@@ -1,0 +1,24 @@
+{
+  "name": "gl-js-group",
+  "version": "1.0.0",
+  "description": "# Перед началом работы",
+  "main": "index.js",
+  "scripts": {
+    "runTextEditor": "vim",
+    "deploy": "gh-pages -d src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GregorHorvatH/gl-js-group.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GregorHorvatH/gl-js-group/issues"
+  },
+  "homepage": "https://github.com/GregorHorvatH/gl-js-group#readme",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}

@@ -20,5 +20,8 @@
   "homepage": "https://gregorhorvath.github.io/gl-js-group",
   "devDependencies": {
     "gh-pages": "^3.2.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
